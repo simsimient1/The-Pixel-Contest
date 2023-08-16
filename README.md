@@ -1,5 +1,7 @@
 # The Pixel Contest
 [![License](https://img.shields.io/badge/License-MIT-EBA33C.svg)](https://github.com/simsimient1/The-Pixel-Contest/blob/main/LICENSE)
+
+[![Join the chat at https://gitter.im/terrysahaidak/GitterMobile](https://badges.gitter.im/terrysahaidak/GitterMobile.svg)](https://gitter.im/terrysahaidak/GitterMobile?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 # Gift
 HKmike: Toy
 # Download
