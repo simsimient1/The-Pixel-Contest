@@ -1,5 +1,3 @@
-![1692135024560](https://github.com/simsimient1/The-Pixel-Contest/assets/109045595/4d61b416-084c-4a41-a416-c6f9f7482e5f)
-
 # The Pixel Contest
 [![License](https://img.shields.io/badge/License-MIT-EBA33C.svg)](https://github.com/simsimient1/The-Pixel-Contest/blob/main/LICENSE)
 # Gift
